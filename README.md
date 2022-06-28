@@ -26,6 +26,10 @@ cd My-Z-Tools
 make setup = menginstall bahan agar work
 make rp    = hubungi admin
 make run   = menjalankan script
+
+informasi:
+           jika salah satu fitur tidak berfungsi semesti nya
+           berarti fitur sudah mulai kadaluwarsa
 ```
 
 <details close>
